@@ -1,0 +1,15 @@
+/* Media queries */
+
+/* Tablet 768px */
+@media (max-width: 768px) {}
+
+/* Mobile 480px */
+@media (max-width: 480px) {
+  .container .col {
+    width: 100%;
+  }
+
+  .why-us {
+    background-color: black;
+  }
+}
