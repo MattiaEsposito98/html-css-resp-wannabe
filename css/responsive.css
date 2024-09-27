@@ -1,7 +1,15 @@
 /* Media queries */
+@media (max-width: 1160) {
+  .container{
+    width: 100%;
+  }
+}
+
 
 /* Tablet 768px */
-@media (max-width: 768px) {}
+@media (max-width: 768px) {
+  
+}
 
 /* Mobile 480px */
 @media (max-width: 480px) {
